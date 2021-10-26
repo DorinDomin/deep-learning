@@ -29,4 +29,7 @@ In order to run, press 'Runtime' and then 'run all'.
 It may take a while
 Similarly for the 2 notebooks.
 
+#### Visualizations:
+
+![image](https://user-images.githubusercontent.com/58748407/138842118-e7ce022a-446b-4bc0-b2f3-239717aa19d3.png)
 
